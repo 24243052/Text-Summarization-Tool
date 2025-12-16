@@ -32,3 +32,8 @@ Business: Creating executive summaries of reports and proposals
 Media & Journalism: Condensing news articles and blog posts
 Legal & Medical Fields: Summarizing long documents and case files
 Students & Professionals: Quick revision and information extraction
+
+*OUTPUT
+
+https://github.com/24243052/Text-Summarization-Tool/blob/main/Screenshot%202025-12-15%20224950.png
+https://github.com/24243052/Text-Summarization-Tool/blob/main/Screenshot%202025-12-15%20230240.png

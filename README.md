@@ -35,8 +35,8 @@ Students & Professionals: Quick revision and information extraction
 
 *OUTPUT
 
-<img width="1905" height="827" alt="Screenshot 2025-12-15 230240" src="https://github.com/user-attachments/assets/18340a84-dfc3-4828-a17d-9d5085930966" />
+<img width="1905" height="827" alt="Image" src="https://github.com/user-attachments/assets/be78028e-e970-46ba-9025-7e096888da23" />
 
-<img width="1905" height="827" alt="Screenshot 2025-12-15 230240" src="https://github.com/user-attachments/assets/30bbe062-abcf-4b1e-9d46-c171af04800f" />
+<img width="1905" height="827" alt="Image" src="https://github.com/user-attachments/assets/6699271c-3c63-4722-9168-79edf7aaca8d" />
 
 

@@ -33,10 +33,12 @@ Media & Journalism: Condensing news articles and blog posts
 Legal & Medical Fields: Summarizing long documents and case files
 Students & Professionals: Quick revision and information extraction
 
-*OUTPUT
+*OUTPUT:
+
+<img width="1918" height="852" alt="Screenshot 2025-12-15 224950" src="https://github.com/user-attachments/assets/b00612e8-8d5b-49c8-a748-66f7d7b6618c" />
 
 <img width="1905" height="827" alt="Screenshot 2025-12-15 230240" src="https://github.com/user-attachments/assets/4e1bd637-474d-45c6-87e7-f6422e217b1e" />
-<img width="1918" height="852" alt="Screenshot 2025-12-15 224950" src="https://github.com/user-attachments/assets/b00612e8-8d5b-49c8-a748-66f7d7b6618c" />
+
 
 
 

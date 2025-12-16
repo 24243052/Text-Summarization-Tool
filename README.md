@@ -35,5 +35,7 @@ Students & Professionals: Quick revision and information extraction
 
 *OUTPUT
 
-https://github.com/24243052/Text-Summarization-Tool/blob/main/Screenshot%202025-12-15%20224950.png
-https://github.com/24243052/Text-Summarization-Tool/blob/main/Screenshot%202025-12-15%20230240.png
+<img width="1905" height="827" alt="Screenshot 2025-12-15 230240" src="https://github.com/user-attachments/assets/0774a17c-3c00-4b74-a053-884924a633ed" />
+<img width="1905" height="827" alt="Screenshot 2025-12-15 230240" src="https://github.com/user-attachments/assets/30bbe062-abcf-4b1e-9d46-c171af04800f" />
+
+
